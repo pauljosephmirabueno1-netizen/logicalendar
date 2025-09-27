@@ -1,0 +1,4 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+rootProject.name = 'newlogialarm'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
